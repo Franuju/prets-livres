@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/prets-livres/static/css/main.e6c13ad2.css",
-    "main.js": "/prets-livres/static/js/main.2c4b158c.js",
+    "main.js": "/prets-livres/static/js/main.7c30f8fd.js",
     "static/js/453.472444a9.chunk.js": "/prets-livres/static/js/453.472444a9.chunk.js",
     "index.html": "/prets-livres/index.html",
     "main.e6c13ad2.css.map": "/prets-livres/static/css/main.e6c13ad2.css.map",
-    "main.2c4b158c.js.map": "/prets-livres/static/js/main.2c4b158c.js.map",
+    "main.7c30f8fd.js.map": "/prets-livres/static/js/main.7c30f8fd.js.map",
     "453.472444a9.chunk.js.map": "/prets-livres/static/js/453.472444a9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.2c4b158c.js"
+    "static/js/main.7c30f8fd.js"
   ]
 }
